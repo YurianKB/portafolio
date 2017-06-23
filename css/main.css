@@ -1,0 +1,133 @@
+#miNombre, .cancion, .textoFooter{
+  font-family: 'Pacifico', cursive;
+  color: #FF4C90;
+}
+
+.imgMenu{
+  padding-left: 10%;
+  height: 50%;
+  width: 50%;
+}
+
+hr{
+  color:#FF4C90;
+  background-color: #FF4C90;
+}
+
+.textoRosa{
+  color: #FF4C90;
+  font-family: 'Pacifico', cursive;
+}
+
+body{
+  background-image: url(../image/fondo.png);
+}
+
+.iconos{
+  width: 4%;
+  height: 4%;
+}
+
+.navbar{
+  background-color: #FFB2C2;
+}
+
+.kiss{
+  height: 10%;
+  width: 10%;
+}
+
+.imagenYurian{
+  display: inline;
+}
+
+#dibujoPensamiento{
+  padding-top: 0%;
+  width: 40%;
+  height: 40%;
+}
+
+#dibujoYurian{
+  height: 100%;
+  width: 50%;
+}
+
+.textoCancion{
+  margin-top: 0px;
+  margin-left: 500px;
+  font-family: 'Playball', cursive;
+}
+
+.textoNegro{
+  color: #000;
+}
+
+.menu{
+  font-family: 'PT mono', cursive;
+  font-size: 13px;
+}
+
+.menuY{
+  font-family: 'PT mono', cursive;
+  font-size: 15px;
+}
+
+.footer{
+  background-color: #FFB2C2;
+  font-size: 20px;
+}
+
+
+/* Acerca de mí */
+
+.fotoYurian{
+  width: 400px;
+  height: 400px;
+}
+
+.contenedorFoto{
+  padding-top: 10%;
+}
+
+
+.espacioAcercademi{
+  background-color: #FFF;
+  font-family: 'PT Mono', cursive;
+  font-size: 13px;
+  padding-bottom: 5%;
+}
+
+.fondoBlanco{
+  background-color: #FFF;
+}
+
+
+.tituloADM{
+  padding-left: 33%;
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+
+.imagenCosa{
+  margin-left: 43%;
+}
+
+/*Skills*/
+.barrasProgreso{
+  background-color: #FF8FC7 !important;
+}
+
+.barrasProgresoHard{
+  background-color: #FFBCBC !important;
+}
+
+.iconoSkills{
+  width: 10%;
+  height: 10%;
+  margin-left: 43%;
+}
+
+.espacioSkills{
+    font-family: 'PT Mono', cursive;
+    font-size: 15%;
+}
